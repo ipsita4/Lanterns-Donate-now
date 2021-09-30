@@ -1,1 +1,1 @@
-# Lanterns-Donate-now
+https://donate-now.netlify.app/
